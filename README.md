@@ -20,7 +20,7 @@ If you want to help us with this project contact
 
 dev@proxywarp.com
 
-![image](105f2cd9c_generated_image.png)
+![image](Rukkit_logo_BGX.png)
 
 -- Rukkit-proxywarp team
 
