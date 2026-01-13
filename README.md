@@ -1,5 +1,5 @@
 # proxywarp
-A open-source proxy project
+An open-source proxy project
 
 Beta 0.0 ver
 
@@ -17,4 +17,6 @@ If you want to help us with this project contact
 
 dev@proxywarp.com
 
-Rukkit-proxywarp team
+-- Rukkit-proxywarp team
+
+
