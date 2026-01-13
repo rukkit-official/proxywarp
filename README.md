@@ -1,6 +1,6 @@
 # proxywarp
 
-![image](ChatGPT Image 2026년 1월 13일 오후 04_12_46-Photoroom.png)
+![image](Proxywarp_logo.png)
 
 An open-source proxy project
 
