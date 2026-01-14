@@ -4,6 +4,8 @@
 
 An open-source proxy project
 
+'The internet should be a place of freedom, not a walled garden. We're here to tear down the walls.'
+
 Beta 0.0 ver
 
 we are still making!
