@@ -1,4 +1,4 @@
-# proxywarp
+# ProxyWarp
 
 ![image](Proxywarp_logo.png)
 
